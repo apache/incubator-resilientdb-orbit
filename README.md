@@ -18,16 +18,16 @@ under the License.
 -->
 ---
 
-## DEPRECATION NOTICE
+# DEPRECATION NOTICE
 
 This repository is deprecated.
 Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
 
 The ResaultDB Orbit can be found at [ecosystem/deployment/orbit](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/deployment/orbit).
 
---
+---
 
-# ResilientDB Orbit
+## ResilientDB Orbit
 ResilientDB Orbit is a lightweight desktop launcher to spin up ResilientDB and its core services in one click, perfect for handling development, rapid testing, and local experimentation.
 
 ## Setup
